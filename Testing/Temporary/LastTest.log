@@ -1,0 +1,29 @@
+Start testing: Oct 12 03:22 MSK
+----------------------------------------------------------
+1/1 Testing: mtest
+1/1 Test: mtest
+Command: "/mnt/c/Users/Max/Desktop/osi/j1/MAI_OS_3sem2024/mtest"
+Directory: /mnt/c/Users/Max/Desktop/osi/j1/MAI_OS_3sem2024
+"mtest" start time: Oct 12 03:22 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Max/Desktop/osi/j1/MAI_OS_3sem2024/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ProgramTest
+[ RUN      ] ProgramTest.TestTest
+Введите название файла для вывода результата: Введите числа через пробел: [       OK ] ProgramTest.TestTest (32 ms)
+[----------] 1 test from ProgramTest (32 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (32 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"mtest" end time: Oct 12 03:22 MSK
+"mtest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 12 03:22 MSK

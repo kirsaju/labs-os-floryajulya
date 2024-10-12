@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/parent.dir/parent.cpp.o -o parent 
